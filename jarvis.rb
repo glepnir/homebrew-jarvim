@@ -4,7 +4,7 @@
 class Jarvis < Formula
   desc "Generate a module vim configruation like a VIM PRO"
   homepage "https://github.com/glepnir/jarvis"
-  url "https://github.com/glepnir/jarvis/releases/download/v0.1.4/jarvis-amd64-darwin.tar.gz"
+  url "https://github.com/glepnir/jarvis/releases/download/v0.1.5/jarvis-amd64-darwin.tar.gz"
   sha256 "791e0e8a0f524c2c0830e551f2e6b22e3c097b2608bbe61296e33017a178a842"
   license "MIT"
 
