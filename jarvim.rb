@@ -1,17 +1,17 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Jarvis < Formula
+class Jarvim < Formula
   desc "Generate a module vim configruation like a VIM PRO"
-  homepage "https://github.com/glepnir/jarvis"
-  url "https://github.com/glepnir/jarvis/releases/download/v0.1.6/jarvis-amd64-darwin.tar.gz"
+  homepage "https://github.com/glepnir/jarvim"
+  url "https://github.com/glepnir/jarvim/releases/download/v0.1.6/jarvim-amd64-darwin.tar.gz"
   sha256 "503e8377bfad145a0012d9dd821ef389616271d962db28dbb5cf8b9c6fcf8dc0"
-  license "MIT"
+  license "BSD3"
 
   # depends_on "cmake" => :build
 
   def install
-    bin.install "jarvis"
+    bin.install "jarvim"
   end
 
   test do
