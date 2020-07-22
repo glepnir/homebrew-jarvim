@@ -4,7 +4,7 @@
 class Jarvim < Formula
   desc "Generate a module vim configruation like a VIM PRO"
   homepage "https://github.com/glepnir/jarvim"
-  url "https://github.com/glepnir/jarvim/releases/download/v0.1.6/jarvim-amd64-darwin.tar.gz"
+  url "https://github.com/glepnir/jarvim/releases/download/v0.1.7/jarvim-amd64-darwin.tar.gz"
   sha256 "503e8377bfad145a0012d9dd821ef389616271d962db28dbb5cf8b9c6fcf8dc0"
   license "BSD3"
 
