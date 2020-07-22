@@ -5,7 +5,7 @@ class Jarvis < Formula
   desc "Generate a module vim configruation like a VIM PRO"
   homepage "https://github.com/glepnir/jarvis"
   url "https://github.com/glepnir/jarvis/releases/download/v0.1.5/jarvis-amd64-darwin.tar.gz"
-  sha256 "791e0e8a0f524c2c0830e551f2e6b22e3c097b2608bbe61296e33017a178a842"
+  sha256 "6e4d69a540cf6bdb6c6766c116430f0fc7c6fe7849f3559790bc90d4b0289b2c"
   license "MIT"
 
   # depends_on "cmake" => :build
