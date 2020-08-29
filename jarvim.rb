@@ -5,7 +5,7 @@ class Jarvim < Formula
   desc "Generate a module vim configruation like a VIM PRO"
   homepage "https://github.com/glepnir/jarvim"
   url "https://github.com/glepnir/jarvim/releases/download/v0.2.2/jarvim-amd64-darwin.tar.gz"
-  sha256 "f0d1d5e24346cb5ed5854ebb1b6501ceb338a5e534af8a52275725be07f08b0f"
+  sha256 "e1b6216a02c1e8b9f0118fe73e42ce7744b635225da6169cbeb38123f2ce98ae"
   license "BSD3"
 
   # depends_on "cmake" => :build
